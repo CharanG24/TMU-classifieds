@@ -13,4 +13,7 @@ Instructions for setup and deployment:
 6. Now you will see the react app open on a browser.
 
 Website Link : https://tmu-classifieds-ld1f.vercel.app/
+
+<img width="1136" alt="image" src="https://github.com/user-attachments/assets/a0b70219-9a66-4726-b606-53d1903a8461" />
+
         
